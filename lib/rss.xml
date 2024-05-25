@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[special-adventure]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>special-adventure</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 25 May 2024 15:43:19 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 25 May 2024 15:43:18 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[README]]></title><description><![CDATA[ 
+ ]]></description><link>1-введение\readme.html</link><guid isPermaLink="false">1-Введение/README.md</guid><pubDate>Sat, 25 May 2024 15:33:20 GMT</pubDate></item><item><title><![CDATA[README]]></title><description><![CDATA[ 
+ ]]></description><link>2-общие-приципы-механики\readme.html</link><guid isPermaLink="false">2-Общие приципы механики/README.md</guid><pubDate>Sat, 25 May 2024 15:33:00 GMT</pubDate></item><item><title><![CDATA[Lecture 1]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>untitled\лекция1.html</link><guid isPermaLink="false">Untitled/лекция1.md</guid><pubDate>Sat, 25 May 2024 15:35:43 GMT</pubDate></item><item><title><![CDATA[Lecture 2]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>untitled\лекция2.html</link><guid isPermaLink="false">Untitled/лекция2.md</guid><pubDate>Sat, 25 May 2024 15:35:37 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
+ <br>Оглавление<br>
+<a class="internal-link" data-href="./1-Введение/README.md" href="\1-введение\readme.html" target="_self" rel="noopener">Глава 1. Введение</a><br>
+<a class="internal-link" data-href="./1-Введение" href="\1-Введение" target="_self" rel="noopener">Глава 2. Общие принципы механики</a>]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Sat, 25 May 2024 15:35:55 GMT</pubDate></item><item><title><![CDATA[File one.md]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>one.html</link><guid isPermaLink="false">one.md</guid><pubDate>Sat, 25 May 2024 15:24:08 GMT</pubDate></item><item><title><![CDATA[special-adventure]]></title><description><![CDATA[ 
+ <br><br><br><br><br>формула <br>
+asldkjflskdj<br>
+<img alt="The beautiful MDN logo." src="\istockphoto-1082720986-612x612.jpg" referrerpolicy="no-referrer">
+Подпись к картинке
+
+Далее какой-то текст идёт]]></description><link>readme.html</link><guid isPermaLink="false">README.md</guid><pubDate>Sat, 25 May 2024 15:31:46 GMT</pubDate><enclosure url="istockphoto-1082720986-612x612.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;istockphoto-1082720986-612x612.jpg&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
